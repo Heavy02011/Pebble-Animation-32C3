@@ -1,4 +1,6 @@
 /*
+ * source: https://developer.getpebble.com/guides/pebble-apps/resources/animated-pngs/
+ * 
  * main.c
  * Sets up a Window, BitmapLayer and blank GBitmap to be used as the display
  * container for the GBitmapSequence. It also counts the number of frames.
