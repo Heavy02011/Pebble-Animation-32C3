@@ -1,0 +1,31 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "rbx",
+    "longName": "32c3-animate",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "data/animation.png",
+                "name": "ANIMATION",
+                "targetPlatforms": null,
+                "type": "raw"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "32c3-animate",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "3b3bc906-bc35-400e-b45d-7063028283cc",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
